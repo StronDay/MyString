@@ -1,3 +1,5 @@
+// Новохатский Максим КМБО-05-20
+// MyString
 #include "MyString.h"
 
 int main() 
